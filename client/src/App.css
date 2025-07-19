@@ -195,7 +195,9 @@ tbody a {
   margin-bottom: 20px;
 }
 
-.setting input {
+.setting input,
+.setting textarea,
+.setting select {
   width: 100%;
   background-color: #333;
   border-radius: 4px;
